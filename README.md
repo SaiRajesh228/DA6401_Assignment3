@@ -148,29 +148,3 @@ Both share `Seq2SeqWithAttention` / `Seq2SeqModel` wrappers that implement:
 Each CSV has `[Source, Target, Predicted]` columns for manual inspection.
 
 ---
-
-## 8. Extending the Project
-
-* **Language switch**: change `language='hi'` (Hindi) or any Dakshina code.  
-* **Dataset path**: pass `dataset_path` to `load_data()`.  
-* **Beam search**: replace `generate()` with a beam decoder.  
-* **Transformer**: swap the RNN encoder/decoder with a Transformer stack.
-
----
-
-## 9. License
-
-This coursework code is released under the MIT License.  
-The **Dakshina Dataset** is © Google Research and released under the **CC-BY-SA 4.0** license.
-
----
-
-## 10. Citation
-If you use this code or the reported numbers in academic work, please cite:
-
-> **DA6401 Assignment 3 – Seq2Seq Transliteration Benchmark** (2025),  
-> IIT Madras M.Tech CS Coursework  
-> GitHub: <https://github.com/SaiRajesh228/DA6401_Assignment3>
-
----
-Happy training! 🚀
