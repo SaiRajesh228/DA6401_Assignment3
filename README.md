@@ -1,3 +1,5 @@
+**Interactive WandB Report 👉** <https://wandb.ai/cs24m040-iit-madras/DA6401_Assignment_3/reports/Sai-Rajesh-s-Assignment-3--VmlldzoxMjg2NDU1Mg?accessToken=ymq984v9oy5y1qtj5v74v2pd7srt7uxiwc0wd04s5v10aiukcha2b9fkfxvok740>
+
 # Transliteration Experiments on the Dakshina Dataset  
 ### Sequence-to-Sequence Baseline **vs.** Attention‑enhanced Model
 
@@ -40,9 +42,6 @@ Create a free [wandb](https://wandb.ai) account and **replace** the login key in
 ```python
 wandb.login(key='<YOUR_WANDB_API_KEY>')
 ```
-
-*Interactive run dashboard:*  
-➡️ **Assignment 3 Report** — <https://wandb.ai/cs24m040-iit-madras/DA6401_Assignment_3/reports/Sai-Rajesh-s-Assignment-3--VmlldzoxMjg2NDU1Mg?accessToken=ymq984v9oy5y1qtj5v74v2pd7srt7uxiwc0wd04s5v10aiukcha2b9fkfxvok740>
 
 ---
 
