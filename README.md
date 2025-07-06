@@ -1,3 +1,6 @@
+# Agent Selection Diagram
+
+```mermaid
 graph LR
     A[User Input] --> B[Intent Analysis]
     B --> C{Confidence?}
